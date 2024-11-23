@@ -1,2 +1,3 @@
 Some fixes
 Now can jump
+Fixe bug
